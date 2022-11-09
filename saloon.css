@@ -1,0 +1,143 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    justify-content:center;
+    align-items:center;
+    padding:100px;
+}
+.container{
+    background: url(Rectangle\ 1.png);
+    z-index: -1;
+    width:1440;
+    height:831;
+    margin-top:-10px;
+    padding:40px;
+}
+ul{
+    list-style-type: none;
+   /* justify-content:center;*/
+    color:white;
+    display:flex;
+    overflow:hidden;
+    margin-left:120px;
+    margin-top:8px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img-vec{
+  position:relative;
+  width:42px;
+  height:28px;
+  margin-top:53px;
+  margin-bottom:40px;
+}
+.img-saloon{
+    position: relative;;
+    width:32px;
+    height:11px;
+    align-items:center;
+    margin-top:58px;
+    margin-bottom:40px;
+    margin-right:350px;
+}
+#orange{
+    color:#FBB034;
+    margin-left:30px;
+    margin-right:20px;
+    margin-top:45px;
+    margin-bottom:40px;
+    padding:8px;
+    text-align:center;
+    font-size: 15px;
+    font-weight:700;
+}
+.para{
+    margin-left:30px;
+    margin-right:20px;
+    margin-top:45px;
+    margin-bottom:40px;
+    padding:8px;
+    text-align:center;
+    font-size: 15px;
+    font-weight:700;
+}
+.butt{
+    margin-left:30px;
+    margin-top:45px;
+    margin-bottom:40px;
+    background:#FBB034;
+    font-size: 15px;
+    width:120px;
+    padding:8px;
+    text-align:center;
+    color:black;
+    font-weight:bold;
+
+}
+.container-1{
+    margin-left:100px;
+    display:flex;
+}
+.container-2{
+    margin-top:80px;
+}
+.small{
+    color:#FBB034;
+    font-size: 15px;
+    heigth:17px;
+    width:150px;
+    padding:5px;
+    margin-bottom:4px;
+}
+.heading{
+    color:white;
+    font-size:48px;
+    width:513px;
+    height:90px;
+    padding:8px;
+    margin-bottom:35px;
+}
+.subtext{
+    color:#9A9A9A;
+    width:240px;
+    height:66px;
+    margin-left:10px;
+}
+.buttons{
+    margin-top:95px;
+    margin-left:5px;
+    display:flex;
+}
+.button-1{
+    background:#FBB034;
+    padding:12px;
+    color:black;
+    font-weight:bolder;
+    font-size: 18px;
+    width:150px;
+    text-align:center;
+}
+.button-2{
+   font-size:18px;
+   color:white;
+   border:1px solid white;
+   padding: 12px;
+   width:150px;
+   margin-left:60px;
+   text-align:center;
+
+}
+.main-img{
+    width:600px;
+    height:510px;
+    position: relative;
+    margin-left:67px;
+    margin-bottom:-44px;
+    
+}
+.image{
+    
+    
+}
